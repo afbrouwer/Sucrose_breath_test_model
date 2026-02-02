@@ -1,0 +1,9 @@
+cff-version: 0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Andrew 
+  given-names: Brouwer
+orcid: https://orcid.org/0000-0002-3779-5287
+title:afbrouwer/Sucrose_breath_test_model
+version: 0.1
+date-released: 2023-09-28
